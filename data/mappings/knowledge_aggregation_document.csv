@@ -1,0 +1,22 @@
+ecsf_knowledge,cybok_references,knowledge_weights,depth_score_document
+Advanced and persistent cyber threats (APT),K21,1.0,1.0
+Computer Security Incident Response Teams (CSIRTs) operation,"K16, K17, K18, K19, K20, K22, K23, K24, K25","1.0, 1.0, 1.0, 1.0, 1.0, 0.8, 1.0, 1.0, 1.0",1.0
+Computer networks security,"K15, K2","1.0, 1.0",1.0
+Computer systems vulnerabilities,"K1, K29, K31, K32, K33, K34","1.0, 0.67, 0.34, 0.34, 0.5, 0.83",1.0
+Cyber threat actors,K28,1.0,1.0
+Cyber threats,K28,1.0,1.0
+Cybersecurity attack procedures,K28,1.0,1.0
+"Cybersecurity awareness, education and training programme development",K12,1.0,1.0
+Cybersecurity controls and solutions,"K11, K13, K14, K24, K25","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+Cybersecurity recommendations and best practices,"K1, K2, K3, K4, K5","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+Cybersecurity risks,K28,1.0,1.0
+Cybersecurity-related technologies,"K10, K13, K14, K25, K6, K7, K8, K9,K24","1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,1.0",1.0
+Offensive and defensive security practices,"K1, K2, K26, K3, K4, K5","1.0, 1.0, 1.0, 1.0, 1.0, 1.0",1.0
+Operating systems security,K31,0.34,0.34
+Penetration testing procedures,"K26, K27","1.0, 1.0",1.0
+"Penetration testing standards, methodologies and frameworks","K31, K32, K33, K34","0.34, 0.34, 0.67, 0.83",0.83
+Penetration testing tools,"K26, K27, K31, K32, K33, K34","1.0, 1.0, 0.34, 0.34, 0.67, 0.83",1.0
+Security architecture reference models,"K1, K2, K3","1.0, 1.0, 1.0",1.0
+Testing procedures,"K26, K31, K32, K33, K34","1.0, 0.34, 0.34, 0.6, 0.83",1.0
+"Testing standards, methodologies and frameworks","K26, K27, K31, K32, K33, K34","1.0, 1.0, 0.34, 0.34, 0.67, 0.83",1.0
+"Threat actors Tactics, Techniques and Procedures (TTPs)",K28,1.0,1.0

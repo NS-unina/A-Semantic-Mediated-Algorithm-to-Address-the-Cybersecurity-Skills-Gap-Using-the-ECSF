@@ -1,0 +1,26 @@
+concept_id,syllabus_concept
+C1,Network Security: Principles and architecture
+C2,Network Security:  Functional security requirements
+C3,Wireless Network Security
+C4,Network-level security: The IPsec protocol suite
+C5,Transport-level security: Secure Socket Layer (SSL)
+C6,Transport-level security: Transport Security Layer (TLS)
+C7,Transport-level security: Secure Shell (SSH)
+C8,Application-level security: e-mail
+C9,"Application-level security, Web: HTTPS"
+C10,"Application-level security, Web: Security Architectures of Web Real Time Communication (WebRTC)"
+C11,Cloud Computing and security
+C12,"Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc."
+C13,"Introduction to Malware, Taxonomy: Advanced Persistent Threats (APTs)"
+C14,Introduction to Malware: Countermeasures
+C15,Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks
+C16,"Intrusion Detection Systems (IDS): Host-based, network-based, and hybrid techniques"
+C17,Firewalls and Intrusion Prevention Systems (IPS)
+C18,"Hacking in IP Networks, preliminary attack phases: Footprinting, Scanning, Enumaration"
+C19,"Hacking in IP Networks, targeted attack techniques: Against end-systems and servers"
+C20,"Hacking in IP Networks, targeted attack techniques, against infrastructures: VoIP Networks."
+C21,"Hacking in IP Networks, targeted attack techniques, against infrastructures: Wireless Networks"
+C22,"Hacking in IP Networks, targeted attack techniques, against infrastructures: Hardware Systems"
+C23,"Hacking in IP Networks, targeted attack techniques, against data and applications: Web"
+C24,"Hacking in IP Networks, targeted attack techniques, against data and applications: Mobile Devices"
+C25,"Hacking in IP Networks, targeted attack techniques, against data and applications: Databases"

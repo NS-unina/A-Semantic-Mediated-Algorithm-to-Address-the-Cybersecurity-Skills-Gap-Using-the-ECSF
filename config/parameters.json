@@ -1,0 +1,48 @@
+{
+  "cybok_version": "1.1",
+  "nominal": {
+    "alpha": 1.0,
+    "mapping_state": "Specific",
+    "m": 1.0,
+    "aggregation": "max"
+  },
+  "evaluation": {
+    "top_k": 3,
+    "bootstrap_samples": 5000,
+    "bootstrap_seed": 42
+  },
+  "sensitivity": {
+    "alpha": [
+      0.0,
+      0.5,
+      1.0,
+      2.0,
+      3.0
+    ],
+    "beta": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "q": [
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "samples": 5000,
+    "seed": 20260921
+  },
+  "semantic_similarity": {
+    "model": "all-mpnet-base-v2",
+    "tfidf_ngram_range": [
+      1,
+      2
+    ],
+    "tfidf_stop_words": "english"
+  },
+  "profile_definition": "data/ecsf/profiles.json"
+}

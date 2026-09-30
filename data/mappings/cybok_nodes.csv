@@ -1,0 +1,35 @@
+mapping_id,cybok_path,normalized_depth,taxonomy_source
+K1,Introduction to CyBok > Foundational Concepts > Definition of cyber > Protection of information systems,1.0,CyBOK v1.1
+K2,Introduction to CyBok > Foundational Concepts > Definition of cyber > Protection of services,1.0,CyBOK v1.1
+K3,Introduction to CyBok > Foundational Concepts > Definition of cyber >  Protection of data,1.0,CyBOK v1.1
+K4,"Introduction to CyBok > Foundational Concepts > Definition of cyber >  Unauthorised access, harm or misuse",1.0,CyBOK v1.1
+K5,Introduction to CyBok > Foundational concepts > objective of cyber security > Mitigate against failures & incidents,1.0,CyBOK v1.1
+K6,Infrastructure security > Network security > Network protocols and their security > Security on Link Layer > Wireless Security,1.0,CyBOK v1.1
+K7,Infrastructure security > Network security > Network protocols and their security > Security at the internet layer > VPNs and IPsec,1.0,CyBOK v1.1
+K8,Infrastructure security > Network security > Network protocols and their security > Security at transport layer > TLS,1.0,CyBOK v1.1
+K9,Infrastructure Security> Applied Cryptography> Applied Cryptography in Action> Transport Layer Security,1.0,CyBOK v1.1
+K10,Infrastructure security > Network security > Network protocols and their security > Security at the Application Layer > Secure Shell (SSH) 3,1.0,augmented
+K11,Attack & Defences > Adversarial Behaviours>Characterisation of adversaries>Cyber-dependent organized crime>Email spam>Mitigations,1.0,CyBOK v1.1
+K12,Software & platform security > Client side vulnerabilities mitigations > Phishing > Anti-phishing training,1.0,CyBOK v1.1
+K13,Infrastructure and security > Network security > Network protocols and their security> Security at the application layer > HTTPS,1.0,CyBOK v1.1
+K14,Infrastructure and security > Network security > Network protocols and their security> Security at the application layer > WebRTC security 4,1.0,augmented
+K15,Infrastructure security > Network security > other network security topics > Cloud and data center security,1.0,CyBOK v1.1
+K16,Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Viruses,1.0,CyBOK v1.1
+K17,Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Malicious browser extensions,1.0,CyBOK v1.1
+K18,Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Botnet malware,1.0,CyBOK v1.1
+K19,Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Memory-resident malware,1.0,CyBOK v1.1
+K20,Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Potentially unwanted programs,1.0,CyBOK v1.1
+K21,Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Advanced persistent threats,1.0,CyBOK v1.1
+K22,Attack & defences> Malware & attack technologies > Malware Detection > Identifying the presence of malware >,0.8,CyBOK v1.1
+K23,Systems Security > Distributed Systems Security > Attacking P2P systems > Attack types > Denial of service (DoS),1.0,CyBOK v1.1
+K24,Infrastructure Security > Network Security>Network Security Tools>Intrusion Detection and Prevention Systems>Intrusion Prevention System (IPS),1.0,CyBOK v1.1
+K25,Infrastructure Security > Security Operations & Incident Management>Fundamental concepts>Workflows & vocabulary>Intrusion detection,1.0,CyBOK v1.1
+K26,Adversarial Behaviours>Models>Kill chains>Reconnaissance,1.0,CyBOK v1.1
+K27,Systems Security > Operating Systems & Virtualisation security > Attacker Model > Attack surface,1.0,CyBOK v1.1
+K28,Infrastructure Security > Network Security >Other network security topics > Networking Infrastructure Security > Security Goals in Networked Systems,1.0,CyBOK v1.1
+K29,Software & platform security > Web & mobile security  > Server side vulnerabilities mitigations >,0.5,CyBOK v1.1
+K30,Infrastructure and security > Network security > Networking Applications > VoIP networks 6,1.0,augmented
+K31,Infrastructure and security > Hardware Security >,0.34,CyBOK v1.1
+K32,Software & platform security > Web & mobile security  >,0.34,CyBOK v1.1
+K33,Software & platform security > Web & Mobile Security>Server side vulnerabilities mitigations>Server side misconfigurations & vulnerable,0.67,CyBOK v1.1
+K34,Software & platform security > Web & Mobile Security>Server side misconfigurations & vulnerable components>Databases>,0.83,CyBOK v1.1

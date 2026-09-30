@@ -1,0 +1,7 @@
+{
+  "n_items": 61,
+  "mean_overestimation_percentage_points": 21.557377049180328,
+  "sd_percentage_points": 13.182721760147427,
+  "wilcoxon_W": 1651.0,
+  "wilcoxon_p_one_sided_greater": 2.808965195113074e-11
+}

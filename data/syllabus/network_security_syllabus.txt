@@ -1,0 +1,42 @@
+The main security properties of a computer system will be introduced and discussed in detail. Approaches to improve security at the various levels of the network protocol stack will then be presented and analyzed. The course adopts an “offensive security” approach. Concepts related to the so-called vulnerability–threat–attack chain will be illustrated. Techniques for preparing a cyber attack, such as footprinting, scanning and enumeration, will be described. The final phase of an attack, known as exploitation, will then be presented. Topics such as firewalling, intrusion detection, malware analysis and protection against DDoS (Distributed Denial of Service) attacks will be introduced. The main techniques of so-called ethical hacking will finally be presented and analyzed in detail.
+1. Network Security
+Principles and architecture
+Functional security requirements
+Threats, attacks, and countermeasures
+2. Wireless Network Security
+3. Network-Level Security
+The IPsec protocol suite
+4. Transport-Level Security
+Secure Socket Layer (SSL)
+Transport Layer Security (TLS)
+Secure Shell (SSH)
+5. Application-Level Security
+E-mail
+Web
+HTTPS
+Security architecture of WebRTC (Web Real Time Communications)
+6. Cloud Computing and Security (overview)
+7. Introduction to Malware
+Taxonomy
+Viruses, worms, Trojans, rootkits, etc.
+Advanced Persistent Threats (APTs)
+Countermeasures
+8. Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks
+9. Intrusion Detection Systems (IDS)
+Host-based, network-based, and hybrid techniques
+10. Firewalls and Intrusion Prevention Systems (IPS)
+11. Hacking in IP Networks
+Preliminary attack phases:
+Footprinting
+Scanning
+Enumeration
+Targeted attack techniques:
+Against end-systems and servers
+Against infrastructure:
+VoIP networks (Voice over IP)
+Wireless networks
+Hardware systems
+Against data and applications:
+Web
+Mobile devices
+Databases

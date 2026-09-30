@@ -1,0 +1,40 @@
+concept_id,syllabus_concept,cybok_path,taxonomy_source,mapping_state_nominal,m_nominal
+C1,Network Security: Principles and architecture,Introduction to CyBok > Foundational Concepts > Definition of cyber > Protection of information systems,CyBOK v1.1,Specific,1.0
+C1,Network Security: Principles and architecture,Introduction to CyBok > Foundational Concepts > Definition of cyber >  Protection of data,CyBOK v1.1,Specific,1.0
+C1,Network Security: Principles and architecture,Introduction to CyBok > Foundational Concepts > Definition of cyber > Protection of services,CyBOK v1.1,Specific,1.0
+C1,Network Security: Principles and architecture,"Introduction to CyBok > Foundational Concepts > Definition of cyber >  Unauthorised access, harm or misuse",CyBOK v1.1,Specific,1.0
+C2,Network Security:  Functional security requirements,Introduction to CyBok > Foundational concepts > objective of cyber security > Mitigate against failures & incidents,CyBOK v1.1,Specific,1.0
+C3,Wireless Network Security,Infrastructure security > Network security > Network protocols and their security > Security on Link Layer > Wireless Security,CyBOK v1.1,Specific,1.0
+C4,Network-level security: The IPsec protocol suite,Infrastructure security > Network security > Network protocols and their security > Security at the internet layer > VPNs and IPsec,CyBOK v1.1,Specific,1.0
+C5,Transport-level security: Secure Socket Layer (SSL),Infrastructure security > Network security > Network protocols and their security > Security at transport layer > TLS,CyBOK v1.1,Specific,1.0
+C5,Transport-level security: Secure Socket Layer (SSL),Infrastructure Security> Applied Cryptography> Applied Cryptography in Action> Transport Layer Security,CyBOK v1.1,Specific,1.0
+C6,Transport-level security: Transport Security Layer (TLS),Infrastructure security > Network security > Network protocols and their security > Security at transport layer > TLS,CyBOK v1.1,Specific,1.0
+C6,Transport-level security: Transport Security Layer (TLS),Infrastructure Security> Applied Cryptography> Applied Cryptography in Action> Transport Layer Security,CyBOK v1.1,Specific,1.0
+C7,Transport-level security: Secure Shell (SSH),Infrastructure security > Network security > Network protocols and their security > Security at the Application Layer > Secure Shell (SSH),augmented,Specific,1.0
+C8,Application-level security: e-mail,Attack & Defences > Adversarial Behaviours>Characterisation of adversaries>Cyber-dependent organized crime>Email spam>Mitigations,CyBOK v1.1,Specific,1.0
+C8,Application-level security: e-mail,Software & platform security > Client side vulnerabilities mitigations > Phishing > Anti-phishing training,CyBOK v1.1,Specific,1.0
+C9,"Application-level security, Web: HTTPS",Infrastructure and security > Network security > Network protocols and their security> Security at the application layer > HTTPS,CyBOK v1.1,Specific,1.0
+C10,"Application-level security, Web: Security Architectures of Web Real Time Communication (WebRTC)",Infrastructure and security > Network security > Network protocols and their security> Security at the application layer > WebRTC security,augmented,Specific,1.0
+C11,Cloud Computing and security,Infrastructure security > Network security > other network security topics > Cloud and data center security,CyBOK v1.1,Specific,1.0
+C12,"Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc.",Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Viruses,CyBOK v1.1,Specific,1.0
+C12,"Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc.",Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Malicious browser extensions,CyBOK v1.1,Specific,1.0
+C12,"Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc.",Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Botnet malware,CyBOK v1.1,Specific,1.0
+C12,"Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc.",Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Memory-resident malware,CyBOK v1.1,Specific,1.0
+C12,"Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc.",Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Advanced persistent threats,CyBOK v1.1,Specific,1.0
+C12,"Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc.",Attacks & Defences > Malware & Attack Technologies > Malware taxonomy > Kinds > Potentially unwanted programs,CyBOK v1.1,Specific,1.0
+C13,"Introduction to Malware, Taxonomy: Advanced Persistent Threats (APTs)",Attacks & Defences > Malware & Attack technologies > malicious activities by malware > Attacks on > APT,CyBOK v1.1,Specific,1.0
+C14,Introduction to Malware: Countermeasures,Attack & defences> Malware & attack technologies > Malware Detection > Identifying the presence of malware >,CyBOK v1.1,Specific,1.0
+C15,Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks,Systems Security > Distributed Systems Security > Attacking P2P systems > Attack types > Denial of service (DoS),CyBOK v1.1,Specific,1.0
+C16,"Intrusion Detection Systems (IDS): Host-based, network-based, and hybrid techniques",Infrastructure Security > Network Security>Network Security Tools>Intrusion Detection and Prevention Systems>Intrusion Prevention System (IPS),CyBOK v1.1,Specific,1.0
+C16,"Intrusion Detection Systems (IDS): Host-based, network-based, and hybrid techniques",Infrastructure Security > Security Operations & Incident Management>Fundamental concepts>Workflows & vocabulary>Intrusion detection,CyBOK v1.1,Specific,1.0
+C17,Firewalls and Intrusion Prevention Systems (IPS),Infrastructure Security > Network Security>Network Security Tools>Intrusion Detection and Prevention Systems>Intrusion Prevention System (IPS),CyBOK v1.1,Specific,1.0
+C18,"Hacking in IP Networks, preliminary attack phases: Footprinting , Scanning, Enumeration",Adversarial Behaviours>Models>Kill chains>Reconnaissance,CyBOK v1.1,Specific,1.0
+C18,"Hacking in IP Networks, preliminary attack phases: Footprinting , Scanning, Enumeration",Systems Security > Operating Systems & Virtualisation security > Attacker Model > Attack surface,CyBOK v1.1,Specific,1.0
+C19,"Hacking in IP Networks, targeted attack techniques: Against end-systems and servers",Infrastructure Security > Network Security >Other network security topics > Networking Infrastructure Security > Security Goals in Networked Systems,CyBOK v1.1,Specific,1.0
+C19,"Hacking in IP Networks, targeted attack techniques: Against end-systems and servers",Software & platform security > Web & mobile security  > Server side vulnerabilities mitigations > 5,CyBOK v1.1,Specific,1.0
+C20,"Hacking in IP Networks, targeted attack techniques, against infrastructures: VoIP Networks.",Infrastructure and security > Network security > Networking Applications > VoIP Networks,augmented,Specific,1.0
+C21,"Hacking in IP Networks, targeted attack techniques, against infrastructures: Wireless Networks",Infrastructure and security > Network security > Networking Applications > Wireless Networks,CyBOK v1.1,Specific,1.0
+C22,"Hacking in IP Networks, targeted attack techniques, against infrastructures: Hardware Systems",Infrastructure and security > Hardware Security > 5,CyBOK v1.1,Specific,1.0
+C23,"Hacking in IP Networks, targeted attack techniques, against data and applications: Web",Software & platform security > Web & mobile security  > 5,CyBOK v1.1,Specific,1.0
+C24,"Hacking in IP Networks, targeted attack techniques, against data and applications: Mobile Devices",Software & platform security > Web & mobile security  > 5,CyBOK v1.1,Specific,1.0
+C25,"Hacking in IP Networks, targeted attack techniques, against data and applications: Databases",Software & platform security > Web & Mobile Security>Server side vulnerabilities mitigations>Server side misconfigurations & vulnerable components>Databases> 5,CyBOK v1.1,Specific,1.0

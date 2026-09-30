@@ -1,0 +1,13 @@
+role,Ground Truth (Expert)__score,Ground Truth (Expert)__rank,Our Approach (CyBOK)__score,Our Approach (CyBOK)__rank,CSCAM (Baseline 1)__score,CSCAM (Baseline 1)__rank,DyCSCOM (Baseline 2)__score,DyCSCOM (Baseline 2)__rank
+Chief Information Security Officer (CISO),27.272727272727273,11,9.090909090909092,10,40.7407,6,1.8557,9
+Cyber Incident Responder,45.76923076923077,4,41.07692307692308,5,42.1053,5,2.9977,8
+"Cyber Legal, Policy & Compliance Officer",28.0,9,0.0,11,15.3846,11,6.7091,4
+Cyber Threat Intelligence Specialist,47.69230769230769,3,56.46153846153846,3,39.1304,7,13.9892,3
+Cybersecurity Architect,33.0,7,40.0,7,56.0,1,38.1135,1
+Cybersecurity Auditor,32.5,8,12.5,9,12.5,12,1.4275,11
+Cybersecurity Educator,27.500000000000004,10,37.5,8,47.0588,2,5.0675,6
+Cybersecurity Implementer,51.36363636363637,2,66.72727272727273,2,38.8889,8,24.4098,2
+Cybersecurity Researcher,27.0,12,0.0,11,33.3333,10,3.8542,7
+Cybersecurity Risk Manager,39.0,6,50.0,4,43.75,3,1.713,10
+Digital Forensics Investigator,44.23076923076923,5,41.07692307692308,5,38.8889,8,6.6378,5
+Penetration Tester,63.333333333333336,1,68.08333333333333,1,43.4783,4,1.4275,11

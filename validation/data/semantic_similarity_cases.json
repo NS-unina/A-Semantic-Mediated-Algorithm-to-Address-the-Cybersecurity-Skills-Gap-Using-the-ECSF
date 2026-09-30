@@ -1,0 +1,301 @@
+[
+  {
+    "label": "Principles & Arch.",
+    "syllabus_text": "Network Security: Principles and architecture",
+    "cybok_candidates": [
+      "Protection of information systems",
+      "Protection of data",
+      "Protection of services",
+      "Unauthorised access, harm or misuse"
+    ],
+    "ecsf_candidates": [
+      "Computer systems vulnerabilities",
+      "Cybersecurity recommendations and best practices",
+      "Offensive and defensive security practices",
+      "Offensive and defensive security procedures",
+      "Security architecture reference models"
+    ]
+  },
+  {
+    "label": "Func. Requirements",
+    "syllabus_text": "Network Security: Functional security requirements",
+    "cybok_candidates": [
+      "Mitigate against failures & incidents"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity recommendations and best practices",
+      "Offensive and defensive security practices",
+      "Offensive and defensive security procedures"
+    ]
+  },
+  {
+    "label": "Wireless Security",
+    "syllabus_text": "Wireless Network Security",
+    "cybok_candidates": [
+      "Wireless Security"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "IPsec Protocol",
+    "syllabus_text": "Network-level security: The IPsec protocol suite",
+    "cybok_candidates": [
+      "VPNs and IPsec"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "SSL / TLS",
+    "syllabus_text": "Transport-level security: Secure Socket Layer (SSL)",
+    "cybok_candidates": [
+      "TLS",
+      "Transport Layer Security"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "TLS (Transport)",
+    "syllabus_text": "Transport-level security: Transport Security Layer (TLS)",
+    "cybok_candidates": [
+      "TLS",
+      "Transport Layer Security"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "Email Security",
+    "syllabus_text": "Application-level security: e-mail",
+    "cybok_candidates": [
+      "Mitigations",
+      "Phishing > Anti-phishing training"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity controls and solutions",
+      "Cybersecurity awareness, education and training programme development"
+    ]
+  },
+  {
+    "label": "HTTPS",
+    "syllabus_text": "HTTPS",
+    "cybok_candidates": [
+      "HTTPS"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity controls and solutions",
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "WebRTC Security",
+    "syllabus_text": "Application-level security, Web: Security Architectures of Web Real Time Communication (WebRTC)",
+    "cybok_candidates": [
+      "WebRTCSecurity"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity controls and solutions",
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "Cloud Security",
+    "syllabus_text": "Cloud Computing and security",
+    "cybok_candidates": [
+      "Cloud and data center security"
+    ],
+    "ecsf_candidates": [
+      "Computer networks security"
+    ]
+  },
+  {
+    "label": "Malware Taxonomy",
+    "syllabus_text": "Introduction to Malware, Taxonomy: Viruses, worms, trojans, rootkits, etc.",
+    "cybok_candidates": [
+      "Viruses",
+      "Malicious browser extensions",
+      "Botnet malware",
+      "Memory-resident malware",
+      "Advanced persistent threats",
+      "Potentially unwanted programs"
+    ],
+    "ecsf_candidates": [
+      "Computer Security Incident Response Teams (CSIRTs) operation",
+      "Advanced and persistent cyber threats (APT)"
+    ]
+  },
+  {
+    "label": "APT Taxonomy",
+    "syllabus_text": "Introduction to Malware, Taxonomy: Advanced Persistent Threats (APTs)",
+    "cybok_candidates": [
+      "APT"
+    ],
+    "ecsf_candidates": [
+      "Advanced and persistent cyber threats (APT)"
+    ]
+  },
+  {
+    "label": "Malware Counterm.",
+    "syllabus_text": "Introduction to Malware: Countermeasures",
+    "cybok_candidates": [
+      "Identifying the presence of malware"
+    ],
+    "ecsf_candidates": [
+      "Computer Security Incident Response Teams (CSIRTs) operation"
+    ]
+  },
+  {
+    "label": "DoS / DDoS",
+    "syllabus_text": "Denial of Service (DoS) and Distributed Denial of Service (DDoS) Attacks",
+    "cybok_candidates": [
+      "Denial of service (DoS)"
+    ],
+    "ecsf_candidates": [
+      "Computer Security Incident Response Teams (CSIRTs) operation"
+    ]
+  },
+  {
+    "label": "IDS Techniques",
+    "syllabus_text": "Intrusion Detection Systems (IDS): Host-based, network-based, and hybrid techniques",
+    "cybok_candidates": [
+      "Intrusion Prevention System (IPS)",
+      "Intrusion detection"
+    ],
+    "ecsf_candidates": [
+      "Computer Security Incident Response Teams (CSIRTs) operation",
+      "Cybersecurity controls and solutions",
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "Firewalls & IPS",
+    "syllabus_text": "Firewalls and Intrusion Prevention Systems (IPS)",
+    "cybok_candidates": [
+      "Intrusion Prevention System (IPS)"
+    ],
+    "ecsf_candidates": [
+      "Computer Security Incident Response Teams (CSIRTs) operation",
+      "Cybersecurity controls and solutions",
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "Hacking Phases",
+    "syllabus_text": "Hacking in IP Networks, preliminary attack phases: Footprinting , Scanning, Enumeration",
+    "cybok_candidates": [
+      "Attack surface",
+      "Reconnaissance"
+    ],
+    "ecsf_candidates": [
+      "Offensive and defensive security practices",
+      "Offensive and defensive security procedures",
+      "Penetration testing procedures",
+      "Penetration testing tools",
+      "Testing procedures",
+      "Testing standards, methodologies and frameworks"
+    ]
+  },
+  {
+    "label": "Target: End-systems",
+    "syllabus_text": "Hacking in IP Networks, targeted attack techniques: Against end-systems and servers",
+    "cybok_candidates": [
+      "Security Goals in Networked Systems",
+      "Server side vulnerabilities mitigations"
+    ],
+    "ecsf_candidates": [
+      "Cyber threat actors",
+      "Cyber threats",
+      "Cybersecurity attack procedures",
+      "Cybersecurity risks",
+      "Threat actors Tactics, Techniques and Procedures (TTPs)",
+      "Computer systems vulnerabilities",
+      "Penetration testing standards, methodologies and frameworks"
+    ]
+  },
+  {
+    "label": "Target: VoIP",
+    "syllabus_text": "Hacking in IP Networks, targeted attack techniques, against infrastructures: VoIP Networks",
+    "cybok_candidates": [
+      "VoIP networks"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "Target: Wireless",
+    "syllabus_text": "Hacking in IP Networks, targeted attack techniques, against infrastructures: Wireless Networks",
+    "cybok_candidates": [
+      "Wireless Networks"
+    ],
+    "ecsf_candidates": [
+      "Cybersecurity-related technologies"
+    ]
+  },
+  {
+    "label": "Target: Hardware",
+    "syllabus_text": "Hacking in IP Networks, targeted attack techniques, against infrastructures: Hardware Systems",
+    "cybok_candidates": [
+      "Hardware Security"
+    ],
+    "ecsf_candidates": [
+      "Computer systems vulnerabilities",
+      "Operating systems security",
+      "Penetration testing standards, methodologies and frameworks",
+      "Penetration testing tools",
+      "Testing procedures",
+      "Testing standards, methodologies and frameworks"
+    ]
+  },
+  {
+    "label": "Target: Web",
+    "syllabus_text": "Hacking in IP Networks, targeted attack techniques, against data and applications: Web",
+    "cybok_candidates": [
+      "Web & mobile security"
+    ],
+    "ecsf_candidates": [
+      "Computer systems vulnerabilities",
+      "Operating systems security",
+      "Penetration testing standards, methodologies and frameworks",
+      "Penetration testing tools",
+      "Testing procedures",
+      "Testing standards, methodologies and frameworks"
+    ]
+  },
+  {
+    "label": "Target: Mobile",
+    "syllabus_text": "Hacking in IP Networks, targeted attack techniques, against data and applications: Mobile Devices",
+    "cybok_candidates": [
+      "Web & mobile security"
+    ],
+    "ecsf_candidates": [
+      "Computer systems vulnerabilities",
+      "Operating systems security",
+      "Penetration testing standards, methodologies and frameworks",
+      "Penetration testing tools",
+      "Testing procedures",
+      "Testing standards, methodologies and frameworks"
+    ]
+  },
+  {
+    "label": "Target: Databases",
+    "syllabus_text": "Hacking in IP Networks, targeted attack techniques, against data and applications: Databases",
+    "cybok_candidates": [
+      "Databases"
+    ],
+    "ecsf_candidates": [
+      "Computer systems vulnerabilities",
+      "Operating systems security",
+      "Penetration testing standards, methodologies and frameworks",
+      "Penetration testing tools",
+      "Testing procedures",
+      "Testing standards, methodologies and frameworks"
+    ]
+  }
+]

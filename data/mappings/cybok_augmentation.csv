@@ -1,0 +1,4 @@
+concept_id,syllabus_concept,added_cybok_concept,hierarchical_path,documented_rationale
+C7,Transport-level security: Secure Shell (SSH),Secure Shell (SSH),Infrastructure security > Network security > Network protocols and their security > Security at the Application Layer > Secure Shell (SSH),The concept of Secure Shell (SSH) was not present in CyBOK and was added.
+C10,"Application-level security, Web: Security Architectures of Web Real Time Communication (WebRTC)",WebRTC security,Infrastructure and security > Network security > Network protocols and their security> Security at the application layer > WebRTC security,The concept of WebRTC Security was not present in CyBOK and was added.
+C20,"Hacking in IP Networks, targeted attack techniques, against infrastructures: VoIP Networks.",VoIP Networks,Infrastructure and security > Network security > Networking Applications > VoIP Networks,The concept of VoIP Networks was not present in CyBOK and was added.
