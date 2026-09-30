@@ -1,0 +1,6 @@
+alpha,kendall_tau,p_at_3,top_1,top_2,top_3,penetration_tester_percent,implementer_percent,cti_percent,digital_forensics_percent
+0.0,0.8308675641104959,1.0,Penetration Tester,Cybersecurity Implementer,Cyber Threat Intelligence Specialist,75.0,72.72727272727273,61.53846153846154,46.15384615384615
+0.5,0.8308675641104959,1.0,Penetration Tester,Cybersecurity Implementer,Cyber Threat Intelligence Specialist,70.78448789499132,68.93722899531392,58.33150145757331,42.94688607295792
+1.0,0.8308675641104959,1.0,Penetration Tester,Cybersecurity Implementer,Cyber Threat Intelligence Specialist,68.08333333333333,66.72727272727273,56.46153846153846,41.07692307692308
+2.0,0.7693218186208295,1.0,Penetration Tester,Cybersecurity Implementer,Cyber Threat Intelligence Specialist,65.0375,64.68727272727273,54.73538461538462,39.35076923076923
+3.0,0.7385489458759964,1.0,Cybersecurity Implementer,Penetration Tester,Cyber Threat Intelligence Specialist,63.42575833333333,63.99367272727273,54.14849230769231,38.76387692307692
