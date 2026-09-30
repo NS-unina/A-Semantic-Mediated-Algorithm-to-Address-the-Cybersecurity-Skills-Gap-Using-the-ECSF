@@ -120,31 +120,6 @@ python tests/verify_reproduction.py
 
 The script checks the core generated outputs against the supplied current-manuscript references and verifies the reported P@3/Kendall metrics.
 
-## 10. Provenance vs automation
-
-| Stage | Nature | Reproducibility artifact |
-|---|---|---|
-| Syllabus selection/preprocessing | Human-defined | syllabus text |
-| Concept extraction | Human-guided | `extracted_concepts.csv` |
-| Syllabus -> CyBOK | Human-guided | `syllabus_to_cybok.csv` |
-| CyBOK augmentation | Human-guided | `cybok_augmentation.csv` |
-| CyBOK -> ECSF | Static mapping | `cybok_to_ecsf.csv` |
-| Hierarchical scoring/aggregation | Automated | `compute_ns_coverage.py` |
-| Ground-truth calibration | Human consensus | expert-calibrated CSV |
-| Role coverage | Automated | `compute_ns_coverage.py` |
-| Metrics/bootstrap | Automated | `evaluate.py` |
-| Sensitivity | Automated | `sensitivity_analysis.py` |
-| Baselines | Automated notebooks | `baselines/` |
-| Semantic-gap validation | Automated | `validation/semantic_similarity.py` |
-
-## Digital Forensics Investigator consistency
-
-All coverage computations use the single canonical ECSF profile file
-`data/ecsf/profiles.json`. Digital Forensics Investigator contains 13 knowledge
-items, including `Cyber threats`; therefore Proposed, Student and Expert
-coverage are evaluated against the same denominator.
-
-## Canonical DFI profile
 
 All computations use `data/ecsf/profiles.json`. The Digital Forensics
 Investigator profile contains 13 ECSF knowledge items, including `Cyber threats`.
